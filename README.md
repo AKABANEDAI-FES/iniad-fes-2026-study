@@ -1,9 +1,9 @@
 # Xiaomi MiMo Claude Proxy
 
 <<<<<<< HEAD
-###Claude Desktop / Claude Code で Xiaomi MiMo モデルを利用するためのプロキシ。Web UI 搭載。
-=======
 ## Claude Desktop / Claude Code で Xiaomi MiMo モデルを利用するためのプロキシ。Web UI 搭載。
+=======
+### Claude Desktop / Claude Code で Xiaomi MiMo モデルを利用するためのプロキシ。Web UI 搭載。
 >>>>>>> 82d5d192f72cc3b3d2088c20cdd7acdb6f0a5aa0
 
 Claude Desktop の Claude Code 機能は Claude 系モデル名（`claude-sonnet-4-6` 等）のみを受け付ける仕様がありますが、このプロキシが **モデル名を透過的に MiMo にマッピング** することで、Xiaomi MiMo モデルを Claude Code から利用できます。
